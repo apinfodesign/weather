@@ -1,0 +1,22 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "testing mh",
+  "main": "index.js",
+  "scripts": {
+    "test": "asdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinfodesign/weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apinfodesign/weather/issues"
+  },
+  "homepage": "https://github.com/apinfodesign/weather",
+  "dependencies": {
+    "commander": "^2.6.0"
+  }
+}
